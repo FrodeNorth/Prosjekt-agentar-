@@ -1,0 +1,15 @@
+{
+  "name": "frode-bygg-agentar",
+  "owner": { "name": "Frode" },
+  "metadata": {
+    "description": "Personleg marketplace med OL agentane til Frode",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ol-agentane",
+      "source": "./plugins/ol-agentane",
+      "description": "Fire agentar for oppdragsleiar i bygg og anlegg: redaktoren, faktasjekkaren, prosjektleiaren og ICE moteplanleggjaren."
+    }
+  ]
+}

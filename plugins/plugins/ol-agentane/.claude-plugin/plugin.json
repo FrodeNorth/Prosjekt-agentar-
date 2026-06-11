@@ -1,6 +1,0 @@
-{
-  "name": "ol-agentane",
-  "version": "1.0.0",
-  "description": "Fire agentar for oppdragsleiar i bygg og anlegg: redaktoren, faktasjekkaren, prosjektleiaren og ICE moteplanleggjaren. Kvar agent er ei ferdigheit som slar inn nar han trengst.",
-  "author": { "name": "Frode" }
-}
